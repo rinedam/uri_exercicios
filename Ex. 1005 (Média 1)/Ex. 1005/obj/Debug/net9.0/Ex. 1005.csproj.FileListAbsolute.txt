@@ -1,0 +1,14 @@
+C:\Users\Administrador\Documents\Estudos\uri_exercicios\Ex. 1005 (Média 1)\Ex. 1005\bin\Debug\net9.0\Ex. 1005.exe
+C:\Users\Administrador\Documents\Estudos\uri_exercicios\Ex. 1005 (Média 1)\Ex. 1005\bin\Debug\net9.0\Ex. 1005.deps.json
+C:\Users\Administrador\Documents\Estudos\uri_exercicios\Ex. 1005 (Média 1)\Ex. 1005\bin\Debug\net9.0\Ex. 1005.runtimeconfig.json
+C:\Users\Administrador\Documents\Estudos\uri_exercicios\Ex. 1005 (Média 1)\Ex. 1005\bin\Debug\net9.0\Ex. 1005.dll
+C:\Users\Administrador\Documents\Estudos\uri_exercicios\Ex. 1005 (Média 1)\Ex. 1005\bin\Debug\net9.0\Ex. 1005.pdb
+C:\Users\Administrador\Documents\Estudos\uri_exercicios\Ex. 1005 (Média 1)\Ex. 1005\obj\Debug\net9.0\Ex. 1005.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrador\Documents\Estudos\uri_exercicios\Ex. 1005 (Média 1)\Ex. 1005\obj\Debug\net9.0\Ex. 1005.AssemblyInfoInputs.cache
+C:\Users\Administrador\Documents\Estudos\uri_exercicios\Ex. 1005 (Média 1)\Ex. 1005\obj\Debug\net9.0\Ex. 1005.AssemblyInfo.cs
+C:\Users\Administrador\Documents\Estudos\uri_exercicios\Ex. 1005 (Média 1)\Ex. 1005\obj\Debug\net9.0\Ex. 1005.csproj.CoreCompileInputs.cache
+C:\Users\Administrador\Documents\Estudos\uri_exercicios\Ex. 1005 (Média 1)\Ex. 1005\obj\Debug\net9.0\Ex. 1005.dll
+C:\Users\Administrador\Documents\Estudos\uri_exercicios\Ex. 1005 (Média 1)\Ex. 1005\obj\Debug\net9.0\refint\Ex. 1005.dll
+C:\Users\Administrador\Documents\Estudos\uri_exercicios\Ex. 1005 (Média 1)\Ex. 1005\obj\Debug\net9.0\Ex. 1005.pdb
+C:\Users\Administrador\Documents\Estudos\uri_exercicios\Ex. 1005 (Média 1)\Ex. 1005\obj\Debug\net9.0\Ex. 1005.genruntimeconfig.cache
+C:\Users\Administrador\Documents\Estudos\uri_exercicios\Ex. 1005 (Média 1)\Ex. 1005\obj\Debug\net9.0\ref\Ex. 1005.dll

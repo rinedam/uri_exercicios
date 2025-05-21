@@ -1,0 +1,14 @@
+C:\Users\Administrador\Documents\Estudos\uri_exercicios\Ex 1006 (Média 2)\Ex 1006\bin\Debug\net9.0\Ex 1006.exe
+C:\Users\Administrador\Documents\Estudos\uri_exercicios\Ex 1006 (Média 2)\Ex 1006\bin\Debug\net9.0\Ex 1006.deps.json
+C:\Users\Administrador\Documents\Estudos\uri_exercicios\Ex 1006 (Média 2)\Ex 1006\bin\Debug\net9.0\Ex 1006.runtimeconfig.json
+C:\Users\Administrador\Documents\Estudos\uri_exercicios\Ex 1006 (Média 2)\Ex 1006\bin\Debug\net9.0\Ex 1006.dll
+C:\Users\Administrador\Documents\Estudos\uri_exercicios\Ex 1006 (Média 2)\Ex 1006\bin\Debug\net9.0\Ex 1006.pdb
+C:\Users\Administrador\Documents\Estudos\uri_exercicios\Ex 1006 (Média 2)\Ex 1006\obj\Debug\net9.0\Ex 1006.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrador\Documents\Estudos\uri_exercicios\Ex 1006 (Média 2)\Ex 1006\obj\Debug\net9.0\Ex 1006.AssemblyInfoInputs.cache
+C:\Users\Administrador\Documents\Estudos\uri_exercicios\Ex 1006 (Média 2)\Ex 1006\obj\Debug\net9.0\Ex 1006.AssemblyInfo.cs
+C:\Users\Administrador\Documents\Estudos\uri_exercicios\Ex 1006 (Média 2)\Ex 1006\obj\Debug\net9.0\Ex 1006.csproj.CoreCompileInputs.cache
+C:\Users\Administrador\Documents\Estudos\uri_exercicios\Ex 1006 (Média 2)\Ex 1006\obj\Debug\net9.0\Ex 1006.dll
+C:\Users\Administrador\Documents\Estudos\uri_exercicios\Ex 1006 (Média 2)\Ex 1006\obj\Debug\net9.0\refint\Ex 1006.dll
+C:\Users\Administrador\Documents\Estudos\uri_exercicios\Ex 1006 (Média 2)\Ex 1006\obj\Debug\net9.0\Ex 1006.pdb
+C:\Users\Administrador\Documents\Estudos\uri_exercicios\Ex 1006 (Média 2)\Ex 1006\obj\Debug\net9.0\Ex 1006.genruntimeconfig.cache
+C:\Users\Administrador\Documents\Estudos\uri_exercicios\Ex 1006 (Média 2)\Ex 1006\obj\Debug\net9.0\ref\Ex 1006.dll

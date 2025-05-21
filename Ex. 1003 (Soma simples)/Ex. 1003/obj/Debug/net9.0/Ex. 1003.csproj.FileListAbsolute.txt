@@ -1,0 +1,14 @@
+C:\Users\Administrador\Documents\Estudos\uri_exercicios\Ex. 1003 (Soma simples)\Ex. 1003\bin\Debug\net9.0\Ex. 1003.exe
+C:\Users\Administrador\Documents\Estudos\uri_exercicios\Ex. 1003 (Soma simples)\Ex. 1003\bin\Debug\net9.0\Ex. 1003.deps.json
+C:\Users\Administrador\Documents\Estudos\uri_exercicios\Ex. 1003 (Soma simples)\Ex. 1003\bin\Debug\net9.0\Ex. 1003.runtimeconfig.json
+C:\Users\Administrador\Documents\Estudos\uri_exercicios\Ex. 1003 (Soma simples)\Ex. 1003\bin\Debug\net9.0\Ex. 1003.dll
+C:\Users\Administrador\Documents\Estudos\uri_exercicios\Ex. 1003 (Soma simples)\Ex. 1003\bin\Debug\net9.0\Ex. 1003.pdb
+C:\Users\Administrador\Documents\Estudos\uri_exercicios\Ex. 1003 (Soma simples)\Ex. 1003\obj\Debug\net9.0\Ex. 1003.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrador\Documents\Estudos\uri_exercicios\Ex. 1003 (Soma simples)\Ex. 1003\obj\Debug\net9.0\Ex. 1003.AssemblyInfoInputs.cache
+C:\Users\Administrador\Documents\Estudos\uri_exercicios\Ex. 1003 (Soma simples)\Ex. 1003\obj\Debug\net9.0\Ex. 1003.AssemblyInfo.cs
+C:\Users\Administrador\Documents\Estudos\uri_exercicios\Ex. 1003 (Soma simples)\Ex. 1003\obj\Debug\net9.0\Ex. 1003.csproj.CoreCompileInputs.cache
+C:\Users\Administrador\Documents\Estudos\uri_exercicios\Ex. 1003 (Soma simples)\Ex. 1003\obj\Debug\net9.0\Ex. 1003.dll
+C:\Users\Administrador\Documents\Estudos\uri_exercicios\Ex. 1003 (Soma simples)\Ex. 1003\obj\Debug\net9.0\refint\Ex. 1003.dll
+C:\Users\Administrador\Documents\Estudos\uri_exercicios\Ex. 1003 (Soma simples)\Ex. 1003\obj\Debug\net9.0\Ex. 1003.pdb
+C:\Users\Administrador\Documents\Estudos\uri_exercicios\Ex. 1003 (Soma simples)\Ex. 1003\obj\Debug\net9.0\Ex. 1003.genruntimeconfig.cache
+C:\Users\Administrador\Documents\Estudos\uri_exercicios\Ex. 1003 (Soma simples)\Ex. 1003\obj\Debug\net9.0\ref\Ex. 1003.dll
