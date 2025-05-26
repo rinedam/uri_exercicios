@@ -1,0 +1,15 @@
+C:\Users\Administrador\Documents\Estudos\uri_exercicios\Ex. 1011 (Esfera)\Ex. 1011\bin\Debug\net9.0\Ex. 1011.exe
+C:\Users\Administrador\Documents\Estudos\uri_exercicios\Ex. 1011 (Esfera)\Ex. 1011\bin\Debug\net9.0\Ex. 1011.deps.json
+C:\Users\Administrador\Documents\Estudos\uri_exercicios\Ex. 1011 (Esfera)\Ex. 1011\bin\Debug\net9.0\Ex. 1011.runtimeconfig.json
+C:\Users\Administrador\Documents\Estudos\uri_exercicios\Ex. 1011 (Esfera)\Ex. 1011\bin\Debug\net9.0\Ex. 1011.dll
+C:\Users\Administrador\Documents\Estudos\uri_exercicios\Ex. 1011 (Esfera)\Ex. 1011\bin\Debug\net9.0\Ex. 1011.pdb
+C:\Users\Administrador\Documents\Estudos\uri_exercicios\Ex. 1011 (Esfera)\Ex. 1011\obj\Debug\net9.0\Ex. 1011.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrador\Documents\Estudos\uri_exercicios\Ex. 1011 (Esfera)\Ex. 1011\obj\Debug\net9.0\Ex. 1011.AssemblyInfoInputs.cache
+C:\Users\Administrador\Documents\Estudos\uri_exercicios\Ex. 1011 (Esfera)\Ex. 1011\obj\Debug\net9.0\Ex. 1011.AssemblyInfo.cs
+C:\Users\Administrador\Documents\Estudos\uri_exercicios\Ex. 1011 (Esfera)\Ex. 1011\obj\Debug\net9.0\Ex. 1011.csproj.CoreCompileInputs.cache
+C:\Users\Administrador\Documents\Estudos\uri_exercicios\Ex. 1011 (Esfera)\Ex. 1011\obj\Debug\net9.0\Ex. 1011.sourcelink.json
+C:\Users\Administrador\Documents\Estudos\uri_exercicios\Ex. 1011 (Esfera)\Ex. 1011\obj\Debug\net9.0\Ex. 1011.dll
+C:\Users\Administrador\Documents\Estudos\uri_exercicios\Ex. 1011 (Esfera)\Ex. 1011\obj\Debug\net9.0\refint\Ex. 1011.dll
+C:\Users\Administrador\Documents\Estudos\uri_exercicios\Ex. 1011 (Esfera)\Ex. 1011\obj\Debug\net9.0\Ex. 1011.pdb
+C:\Users\Administrador\Documents\Estudos\uri_exercicios\Ex. 1011 (Esfera)\Ex. 1011\obj\Debug\net9.0\Ex. 1011.genruntimeconfig.cache
+C:\Users\Administrador\Documents\Estudos\uri_exercicios\Ex. 1011 (Esfera)\Ex. 1011\obj\Debug\net9.0\ref\Ex. 1011.dll

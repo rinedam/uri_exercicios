@@ -1,0 +1,15 @@
+C:\Users\Administrador\Documents\Estudos\uri_exercicios\Ex. 1008 (Salário)\Ex. 1008\bin\Debug\net9.0\Ex. 1008.exe
+C:\Users\Administrador\Documents\Estudos\uri_exercicios\Ex. 1008 (Salário)\Ex. 1008\bin\Debug\net9.0\Ex. 1008.deps.json
+C:\Users\Administrador\Documents\Estudos\uri_exercicios\Ex. 1008 (Salário)\Ex. 1008\bin\Debug\net9.0\Ex. 1008.runtimeconfig.json
+C:\Users\Administrador\Documents\Estudos\uri_exercicios\Ex. 1008 (Salário)\Ex. 1008\bin\Debug\net9.0\Ex. 1008.dll
+C:\Users\Administrador\Documents\Estudos\uri_exercicios\Ex. 1008 (Salário)\Ex. 1008\bin\Debug\net9.0\Ex. 1008.pdb
+C:\Users\Administrador\Documents\Estudos\uri_exercicios\Ex. 1008 (Salário)\Ex. 1008\obj\Debug\net9.0\Ex. 1008.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrador\Documents\Estudos\uri_exercicios\Ex. 1008 (Salário)\Ex. 1008\obj\Debug\net9.0\Ex. 1008.AssemblyInfoInputs.cache
+C:\Users\Administrador\Documents\Estudos\uri_exercicios\Ex. 1008 (Salário)\Ex. 1008\obj\Debug\net9.0\Ex. 1008.AssemblyInfo.cs
+C:\Users\Administrador\Documents\Estudos\uri_exercicios\Ex. 1008 (Salário)\Ex. 1008\obj\Debug\net9.0\Ex. 1008.csproj.CoreCompileInputs.cache
+C:\Users\Administrador\Documents\Estudos\uri_exercicios\Ex. 1008 (Salário)\Ex. 1008\obj\Debug\net9.0\Ex. 1008.sourcelink.json
+C:\Users\Administrador\Documents\Estudos\uri_exercicios\Ex. 1008 (Salário)\Ex. 1008\obj\Debug\net9.0\Ex. 1008.dll
+C:\Users\Administrador\Documents\Estudos\uri_exercicios\Ex. 1008 (Salário)\Ex. 1008\obj\Debug\net9.0\refint\Ex. 1008.dll
+C:\Users\Administrador\Documents\Estudos\uri_exercicios\Ex. 1008 (Salário)\Ex. 1008\obj\Debug\net9.0\Ex. 1008.pdb
+C:\Users\Administrador\Documents\Estudos\uri_exercicios\Ex. 1008 (Salário)\Ex. 1008\obj\Debug\net9.0\Ex. 1008.genruntimeconfig.cache
+C:\Users\Administrador\Documents\Estudos\uri_exercicios\Ex. 1008 (Salário)\Ex. 1008\obj\Debug\net9.0\ref\Ex. 1008.dll

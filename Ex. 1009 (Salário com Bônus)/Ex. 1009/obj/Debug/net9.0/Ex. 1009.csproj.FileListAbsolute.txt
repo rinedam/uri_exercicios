@@ -1,0 +1,15 @@
+C:\Users\Administrador\Documents\Estudos\uri_exercicios\Ex. 1009 (Salário com Bônus)\Ex. 1009\bin\Debug\net9.0\Ex. 1009.exe
+C:\Users\Administrador\Documents\Estudos\uri_exercicios\Ex. 1009 (Salário com Bônus)\Ex. 1009\bin\Debug\net9.0\Ex. 1009.deps.json
+C:\Users\Administrador\Documents\Estudos\uri_exercicios\Ex. 1009 (Salário com Bônus)\Ex. 1009\bin\Debug\net9.0\Ex. 1009.runtimeconfig.json
+C:\Users\Administrador\Documents\Estudos\uri_exercicios\Ex. 1009 (Salário com Bônus)\Ex. 1009\bin\Debug\net9.0\Ex. 1009.dll
+C:\Users\Administrador\Documents\Estudos\uri_exercicios\Ex. 1009 (Salário com Bônus)\Ex. 1009\bin\Debug\net9.0\Ex. 1009.pdb
+C:\Users\Administrador\Documents\Estudos\uri_exercicios\Ex. 1009 (Salário com Bônus)\Ex. 1009\obj\Debug\net9.0\Ex. 1009.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrador\Documents\Estudos\uri_exercicios\Ex. 1009 (Salário com Bônus)\Ex. 1009\obj\Debug\net9.0\Ex. 1009.AssemblyInfoInputs.cache
+C:\Users\Administrador\Documents\Estudos\uri_exercicios\Ex. 1009 (Salário com Bônus)\Ex. 1009\obj\Debug\net9.0\Ex. 1009.AssemblyInfo.cs
+C:\Users\Administrador\Documents\Estudos\uri_exercicios\Ex. 1009 (Salário com Bônus)\Ex. 1009\obj\Debug\net9.0\Ex. 1009.csproj.CoreCompileInputs.cache
+C:\Users\Administrador\Documents\Estudos\uri_exercicios\Ex. 1009 (Salário com Bônus)\Ex. 1009\obj\Debug\net9.0\Ex. 1009.sourcelink.json
+C:\Users\Administrador\Documents\Estudos\uri_exercicios\Ex. 1009 (Salário com Bônus)\Ex. 1009\obj\Debug\net9.0\Ex. 1009.dll
+C:\Users\Administrador\Documents\Estudos\uri_exercicios\Ex. 1009 (Salário com Bônus)\Ex. 1009\obj\Debug\net9.0\refint\Ex. 1009.dll
+C:\Users\Administrador\Documents\Estudos\uri_exercicios\Ex. 1009 (Salário com Bônus)\Ex. 1009\obj\Debug\net9.0\Ex. 1009.pdb
+C:\Users\Administrador\Documents\Estudos\uri_exercicios\Ex. 1009 (Salário com Bônus)\Ex. 1009\obj\Debug\net9.0\Ex. 1009.genruntimeconfig.cache
+C:\Users\Administrador\Documents\Estudos\uri_exercicios\Ex. 1009 (Salário com Bônus)\Ex. 1009\obj\Debug\net9.0\ref\Ex. 1009.dll
