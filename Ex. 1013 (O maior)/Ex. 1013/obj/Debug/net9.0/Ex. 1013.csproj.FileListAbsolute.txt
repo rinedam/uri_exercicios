@@ -1,0 +1,15 @@
+C:\Users\Administrador\Documents\Estudos\uri_exercicios\Ex. 1013 (O maior)\Ex. 1013\bin\Debug\net9.0\Ex. 1013.exe
+C:\Users\Administrador\Documents\Estudos\uri_exercicios\Ex. 1013 (O maior)\Ex. 1013\bin\Debug\net9.0\Ex. 1013.deps.json
+C:\Users\Administrador\Documents\Estudos\uri_exercicios\Ex. 1013 (O maior)\Ex. 1013\bin\Debug\net9.0\Ex. 1013.runtimeconfig.json
+C:\Users\Administrador\Documents\Estudos\uri_exercicios\Ex. 1013 (O maior)\Ex. 1013\bin\Debug\net9.0\Ex. 1013.dll
+C:\Users\Administrador\Documents\Estudos\uri_exercicios\Ex. 1013 (O maior)\Ex. 1013\bin\Debug\net9.0\Ex. 1013.pdb
+C:\Users\Administrador\Documents\Estudos\uri_exercicios\Ex. 1013 (O maior)\Ex. 1013\obj\Debug\net9.0\Ex. 1013.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrador\Documents\Estudos\uri_exercicios\Ex. 1013 (O maior)\Ex. 1013\obj\Debug\net9.0\Ex. 1013.AssemblyInfoInputs.cache
+C:\Users\Administrador\Documents\Estudos\uri_exercicios\Ex. 1013 (O maior)\Ex. 1013\obj\Debug\net9.0\Ex. 1013.AssemblyInfo.cs
+C:\Users\Administrador\Documents\Estudos\uri_exercicios\Ex. 1013 (O maior)\Ex. 1013\obj\Debug\net9.0\Ex. 1013.csproj.CoreCompileInputs.cache
+C:\Users\Administrador\Documents\Estudos\uri_exercicios\Ex. 1013 (O maior)\Ex. 1013\obj\Debug\net9.0\Ex. 1013.sourcelink.json
+C:\Users\Administrador\Documents\Estudos\uri_exercicios\Ex. 1013 (O maior)\Ex. 1013\obj\Debug\net9.0\Ex. 1013.dll
+C:\Users\Administrador\Documents\Estudos\uri_exercicios\Ex. 1013 (O maior)\Ex. 1013\obj\Debug\net9.0\refint\Ex. 1013.dll
+C:\Users\Administrador\Documents\Estudos\uri_exercicios\Ex. 1013 (O maior)\Ex. 1013\obj\Debug\net9.0\Ex. 1013.pdb
+C:\Users\Administrador\Documents\Estudos\uri_exercicios\Ex. 1013 (O maior)\Ex. 1013\obj\Debug\net9.0\Ex. 1013.genruntimeconfig.cache
+C:\Users\Administrador\Documents\Estudos\uri_exercicios\Ex. 1013 (O maior)\Ex. 1013\obj\Debug\net9.0\ref\Ex. 1013.dll
