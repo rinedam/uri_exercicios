@@ -1,0 +1,15 @@
+C:\Users\Administrador\Documents\Estudos\uri_exercicios\Ex. 1035 (Teste de Seleção 1)\Ex. 1035\bin\Debug\net9.0\Ex. 1035.exe
+C:\Users\Administrador\Documents\Estudos\uri_exercicios\Ex. 1035 (Teste de Seleção 1)\Ex. 1035\bin\Debug\net9.0\Ex. 1035.deps.json
+C:\Users\Administrador\Documents\Estudos\uri_exercicios\Ex. 1035 (Teste de Seleção 1)\Ex. 1035\bin\Debug\net9.0\Ex. 1035.runtimeconfig.json
+C:\Users\Administrador\Documents\Estudos\uri_exercicios\Ex. 1035 (Teste de Seleção 1)\Ex. 1035\bin\Debug\net9.0\Ex. 1035.dll
+C:\Users\Administrador\Documents\Estudos\uri_exercicios\Ex. 1035 (Teste de Seleção 1)\Ex. 1035\bin\Debug\net9.0\Ex. 1035.pdb
+C:\Users\Administrador\Documents\Estudos\uri_exercicios\Ex. 1035 (Teste de Seleção 1)\Ex. 1035\obj\Debug\net9.0\Ex. 1035.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrador\Documents\Estudos\uri_exercicios\Ex. 1035 (Teste de Seleção 1)\Ex. 1035\obj\Debug\net9.0\Ex. 1035.AssemblyInfoInputs.cache
+C:\Users\Administrador\Documents\Estudos\uri_exercicios\Ex. 1035 (Teste de Seleção 1)\Ex. 1035\obj\Debug\net9.0\Ex. 1035.AssemblyInfo.cs
+C:\Users\Administrador\Documents\Estudos\uri_exercicios\Ex. 1035 (Teste de Seleção 1)\Ex. 1035\obj\Debug\net9.0\Ex. 1035.csproj.CoreCompileInputs.cache
+C:\Users\Administrador\Documents\Estudos\uri_exercicios\Ex. 1035 (Teste de Seleção 1)\Ex. 1035\obj\Debug\net9.0\Ex. 1035.sourcelink.json
+C:\Users\Administrador\Documents\Estudos\uri_exercicios\Ex. 1035 (Teste de Seleção 1)\Ex. 1035\obj\Debug\net9.0\Ex. 1035.dll
+C:\Users\Administrador\Documents\Estudos\uri_exercicios\Ex. 1035 (Teste de Seleção 1)\Ex. 1035\obj\Debug\net9.0\refint\Ex. 1035.dll
+C:\Users\Administrador\Documents\Estudos\uri_exercicios\Ex. 1035 (Teste de Seleção 1)\Ex. 1035\obj\Debug\net9.0\Ex. 1035.pdb
+C:\Users\Administrador\Documents\Estudos\uri_exercicios\Ex. 1035 (Teste de Seleção 1)\Ex. 1035\obj\Debug\net9.0\Ex. 1035.genruntimeconfig.cache
+C:\Users\Administrador\Documents\Estudos\uri_exercicios\Ex. 1035 (Teste de Seleção 1)\Ex. 1035\obj\Debug\net9.0\ref\Ex. 1035.dll

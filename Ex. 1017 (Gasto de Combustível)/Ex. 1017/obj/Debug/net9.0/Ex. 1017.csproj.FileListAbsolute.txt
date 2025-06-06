@@ -1,0 +1,15 @@
+C:\Users\Administrador\Documents\Estudos\uri_exercicios\Ex. 1017 (Gasto de Combustível)\Ex. 1017\bin\Debug\net9.0\Ex. 1017.exe
+C:\Users\Administrador\Documents\Estudos\uri_exercicios\Ex. 1017 (Gasto de Combustível)\Ex. 1017\bin\Debug\net9.0\Ex. 1017.deps.json
+C:\Users\Administrador\Documents\Estudos\uri_exercicios\Ex. 1017 (Gasto de Combustível)\Ex. 1017\bin\Debug\net9.0\Ex. 1017.runtimeconfig.json
+C:\Users\Administrador\Documents\Estudos\uri_exercicios\Ex. 1017 (Gasto de Combustível)\Ex. 1017\bin\Debug\net9.0\Ex. 1017.dll
+C:\Users\Administrador\Documents\Estudos\uri_exercicios\Ex. 1017 (Gasto de Combustível)\Ex. 1017\bin\Debug\net9.0\Ex. 1017.pdb
+C:\Users\Administrador\Documents\Estudos\uri_exercicios\Ex. 1017 (Gasto de Combustível)\Ex. 1017\obj\Debug\net9.0\Ex. 1017.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrador\Documents\Estudos\uri_exercicios\Ex. 1017 (Gasto de Combustível)\Ex. 1017\obj\Debug\net9.0\Ex. 1017.AssemblyInfoInputs.cache
+C:\Users\Administrador\Documents\Estudos\uri_exercicios\Ex. 1017 (Gasto de Combustível)\Ex. 1017\obj\Debug\net9.0\Ex. 1017.AssemblyInfo.cs
+C:\Users\Administrador\Documents\Estudos\uri_exercicios\Ex. 1017 (Gasto de Combustível)\Ex. 1017\obj\Debug\net9.0\Ex. 1017.csproj.CoreCompileInputs.cache
+C:\Users\Administrador\Documents\Estudos\uri_exercicios\Ex. 1017 (Gasto de Combustível)\Ex. 1017\obj\Debug\net9.0\Ex. 1017.sourcelink.json
+C:\Users\Administrador\Documents\Estudos\uri_exercicios\Ex. 1017 (Gasto de Combustível)\Ex. 1017\obj\Debug\net9.0\Ex. 1017.dll
+C:\Users\Administrador\Documents\Estudos\uri_exercicios\Ex. 1017 (Gasto de Combustível)\Ex. 1017\obj\Debug\net9.0\refint\Ex. 1017.dll
+C:\Users\Administrador\Documents\Estudos\uri_exercicios\Ex. 1017 (Gasto de Combustível)\Ex. 1017\obj\Debug\net9.0\Ex. 1017.pdb
+C:\Users\Administrador\Documents\Estudos\uri_exercicios\Ex. 1017 (Gasto de Combustível)\Ex. 1017\obj\Debug\net9.0\Ex. 1017.genruntimeconfig.cache
+C:\Users\Administrador\Documents\Estudos\uri_exercicios\Ex. 1017 (Gasto de Combustível)\Ex. 1017\obj\Debug\net9.0\ref\Ex. 1017.dll

@@ -1,0 +1,15 @@
+C:\Users\Administrador\Documents\Estudos\uri_exercicios\Ex. 1020 (Idade em Dias)\Ex. 1020\bin\Debug\net9.0\Ex. 1020.exe
+C:\Users\Administrador\Documents\Estudos\uri_exercicios\Ex. 1020 (Idade em Dias)\Ex. 1020\bin\Debug\net9.0\Ex. 1020.deps.json
+C:\Users\Administrador\Documents\Estudos\uri_exercicios\Ex. 1020 (Idade em Dias)\Ex. 1020\bin\Debug\net9.0\Ex. 1020.runtimeconfig.json
+C:\Users\Administrador\Documents\Estudos\uri_exercicios\Ex. 1020 (Idade em Dias)\Ex. 1020\bin\Debug\net9.0\Ex. 1020.dll
+C:\Users\Administrador\Documents\Estudos\uri_exercicios\Ex. 1020 (Idade em Dias)\Ex. 1020\bin\Debug\net9.0\Ex. 1020.pdb
+C:\Users\Administrador\Documents\Estudos\uri_exercicios\Ex. 1020 (Idade em Dias)\Ex. 1020\obj\Debug\net9.0\Ex. 1020.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrador\Documents\Estudos\uri_exercicios\Ex. 1020 (Idade em Dias)\Ex. 1020\obj\Debug\net9.0\Ex. 1020.AssemblyInfoInputs.cache
+C:\Users\Administrador\Documents\Estudos\uri_exercicios\Ex. 1020 (Idade em Dias)\Ex. 1020\obj\Debug\net9.0\Ex. 1020.AssemblyInfo.cs
+C:\Users\Administrador\Documents\Estudos\uri_exercicios\Ex. 1020 (Idade em Dias)\Ex. 1020\obj\Debug\net9.0\Ex. 1020.csproj.CoreCompileInputs.cache
+C:\Users\Administrador\Documents\Estudos\uri_exercicios\Ex. 1020 (Idade em Dias)\Ex. 1020\obj\Debug\net9.0\Ex. 1020.sourcelink.json
+C:\Users\Administrador\Documents\Estudos\uri_exercicios\Ex. 1020 (Idade em Dias)\Ex. 1020\obj\Debug\net9.0\Ex. 1020.dll
+C:\Users\Administrador\Documents\Estudos\uri_exercicios\Ex. 1020 (Idade em Dias)\Ex. 1020\obj\Debug\net9.0\refint\Ex. 1020.dll
+C:\Users\Administrador\Documents\Estudos\uri_exercicios\Ex. 1020 (Idade em Dias)\Ex. 1020\obj\Debug\net9.0\Ex. 1020.pdb
+C:\Users\Administrador\Documents\Estudos\uri_exercicios\Ex. 1020 (Idade em Dias)\Ex. 1020\obj\Debug\net9.0\Ex. 1020.genruntimeconfig.cache
+C:\Users\Administrador\Documents\Estudos\uri_exercicios\Ex. 1020 (Idade em Dias)\Ex. 1020\obj\Debug\net9.0\ref\Ex. 1020.dll
